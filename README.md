@@ -164,7 +164,7 @@ git branch -M main
 git push -u origin main
 ```
 > Daha önce almış olduğumuz kullanıcı adı ve GENERATE TOKEN ile son komutta giriyoruz ve işlemlerimiz burada bitiyor
-> [Dashboard](https://github.com/settings/tokens/new) sayfasına giderek Linki ve Yukarıda Oluşturmuş olduğumuz Contract adresini girerek 1.görevi tamamlıyoruz.
+> [Dashboard](https://www.swisstronik.com/testnet2/dashboard) sayfasına giderek Linki ve Yukarıda Oluşturmuş olduğumuz Contract adresini girerek 1.görevi tamamlıyoruz.
 
 
 
